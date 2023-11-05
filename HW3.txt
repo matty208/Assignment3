@@ -1,0 +1,29 @@
+ArrayList isEmpty: false
+ArrayList size: 6
+West Long Branch
+February
+Cloud Computing
+Data Structures
+MacBook
+Spacex
+New String
+New String
+Spacex
+MacBook
+Data Structures
+Cloud Computing
+February
+West Long Branch
+LinkedList isEmpty: false
+Another String
+Spacex
+MacBook
+Data Structures
+Cloud Computing
+February
+West Long Branch
+Monmouth University
+ArrayList contains bookToFind: false
+ArrayList remove bookToFind: false
+LinkedList contains bookToFind: false
+LinkedList remove bookToFind: false
